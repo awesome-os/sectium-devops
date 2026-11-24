@@ -24,3 +24,10 @@ node --test sections/sectium-cloud-control-plane/mtls-transport.test.mts
 ## License
 
 BSD-3-Clause — see [`LICENSE`](LICENSE).
+
+## Quick Start (Windows / Linux / macOS)
+
+```sh
+# Clone & enter repository (all platforms)
+git clone https://github.com/awesome-os/sectium-devops.git && cd sectium-devops
+```
